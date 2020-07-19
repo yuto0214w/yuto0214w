@@ -8,7 +8,7 @@ I'm a `Node.js Bot` `C# Form Application` Developer!
 ## **I’m looking to collaborate on**
 - Node.js
 ## **I’m looking for help with**
-- Something about WebSocket (It affect to C# Discord.Net Development)
+- Something about WebSocket (It affects to C# Discord.Net Development)
 ## **Ask me about**
 - how to migrate glitch to heroku
 - typescript
@@ -22,4 +22,5 @@ I'm a `Node.js Bot` `C# Form Application` Developer!
 - You
 - yuto0214w
 ## **Fun fact:**
-- I wanna be the ~~guy (I hate that)~~ cat!
+- I wanna be the cat!
+- I wanna loll around on the keyboard...
