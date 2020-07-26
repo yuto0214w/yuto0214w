@@ -13,7 +13,7 @@ I'm a `Node.js Bot` `C# Form Application` Developer!
 - how to migrate glitch to heroku
 - typescript
 - what platform are you using
-- ~~do you like haskell, erlang, or scala?~~
+- ~~do you like haskell, erlang, or scala~~
 ## **How to reach me:**
 - [Twitter: **@yuto0214w**](https://twitter.com/yuto0214w)
 - Discord: **yuto0214w#6130**
@@ -22,5 +22,5 @@ I'm a `Node.js Bot` `C# Form Application` Developer!
 - You
 - yuto0214w
 ## **Fun fact:**
-- I wanna be the cat!
+- I wanna be the cat
 - I wanna loll around on the keyboard...
