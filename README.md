@@ -18,6 +18,7 @@ I'm a `Node.js Application` `C# Form Application` Developer!
 - how to migrate glitch to heroku
 - typescript
 - what platform are you using
+- what language do you like
 
 ## **How to reach me:**
 - [Twitter: **@yuto0214w**](https://twitter.com/yuto0214w)
