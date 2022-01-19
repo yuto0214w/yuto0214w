@@ -1,31 +1,35 @@
-# yuto0214w
-I'm a `Node.js Application` `C# Form Application` Developer!
+# Hi yuto0214w, who are you?
+Hi, I'm Rustacean, JavaScripter/TypeScripter,<br>
+and C#, batch, vbs, and maybe Java...? programmer.
 
-## **I’m currently working on**
-**Third form Student** at **Higashi JHS**
+## **What language are you good at?**
+- Rust
+- JavaScript (Web)
+- JavaScript (Node)
+- batch
 
-## **I’m currently learning**
-- **TypeScript**
-- C#
+## **What do you do?**
+I'm student.
 
-## **I’m looking to collaborate on**
-- Node.js
+## **What do you code?**
+- On Rust,
+  - playing with
+    - Discord bots
+    - win32api
+    - OS
+- On JavaScript,
+  - coding
+    - Discord bots
+    - Pure...I mean "Pure" website made with html, js, and css...well...I'm not good at css...:(
 
-## **I’m looking for help with**
-- 
-
-## **Ask me about**
-- how to migrate glitch to heroku
-- typescript
-- what platform are you using
-- what language do you like
+## **Maybe weird question, but what error do you like?**
+- NullPointerException
+- Segfault
+- Heap_corruption
 
 ## **How to reach me:**
 - [Twitter: **@yuto0214w**](https://twitter.com/yuto0214w)
 - Discord: **yuto0214w#6130**
-
-## **Pronouns:**
-- 
 
 ## **Fun fact:**
 - I wanna be the cat
