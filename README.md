@@ -32,7 +32,7 @@ I'm also batch mad scientist since 2015.
 
 ## **What error do you encounter most?**
 - NullReferenceException (when Oracle Java and Microsoft Java*)
-- Stack smashing (when C++)
+- Stack smashing (when C)
 - Heap corruption (when Rust)
 
 ## **I wanna reach you, tell me all your personal information**
