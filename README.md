@@ -3,11 +3,11 @@ I'm a HS student who really enjoys coding, since 2016.
 
 ## What do I code
 I code in C++ recently.
-- C++/[Win32](https://learn.microsoft.com/en-us/windows/win32/) (Rust/[windows.rs](../microsoft/windows-rs))
+- C++/[Win32](https://learn.microsoft.com/en-us/windows/win32/) (Rust/[windows.rs](../../../../microsoft/windows-rs))
 - C++/[OpenSiv3D](https://siv3d.github.io/)
-- C++/[DPP](../brainboxdotcc/DPP)
+- C++/[DPP](../../../../brainboxdotcc/DPP)
 - Python/[MediaPipe](https://google.github.io/mediapipe/)
-- Rust/[serenity](../serenity-rs/serenity)
+- Rust/[serenity](../../../../serenity-rs/serenity)
 - JS/[Discord.js](https://discord.js.org/)
 - C#/[WinForms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/?view=netframeworkdesktop-4.8)
 
