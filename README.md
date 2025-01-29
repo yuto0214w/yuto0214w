@@ -1,1 +1,1 @@
-# Minecraft, C++, Windows.
+JavaScript と Rust で行きましょう
